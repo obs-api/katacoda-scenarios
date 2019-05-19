@@ -1,6 +1,6 @@
 {
-  "title": "Register ***",
-  "description": "fdfsdfdsfssdffsdfsddf",
+  "title": "Manage OAuth authentication with Python",
+  "description": "This scenatio will explain you how to get an Access Token.",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
