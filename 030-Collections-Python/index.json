@@ -1,6 +1,6 @@
 {
-  "title": "Manage OAuth authentication with Python",
-  "description": "This scenario will explain you how to get an Access Token with Python.",
+  "title": "Get Collections with Python",
+  "description": "This scenario will explain you how to retreive collection with Python.",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {

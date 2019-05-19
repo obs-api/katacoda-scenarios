@@ -1,6 +1,6 @@
 {
-  "title": "Manage OAuth authentication with NodeJS",
-  "description": "This scenario will explain you how to get an Access Token with NodeJS.",
+  "title": "Get Collections with NodeJS",
+  "description": "This scenario will explain you how to retrieve collections with NodeJS.",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
