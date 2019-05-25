@@ -1,15 +1,22 @@
 {
-  "title": "Register to Orange Developer Portal",
-  "description": "This scenario will explain you how to register on the Orange Developer Portal",
-  "difficulty": "beginner",
+  "title": "Maange the OAuth 2.0 authentication",
+  "description": "This scenario will explain you how to request an OAuth Access Token required for Orange Business Services API",
   "time": "2 minutes",
   "details": {
     "steps": [
       {
         "title": "Step 1 - Run Command",
         "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Run Command",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Run Command",
+        "text": "step3.md"
       }
-    ],
+     ],
     "intro": {
       "text": "intro.md",
       "credits": "",
