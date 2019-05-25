@@ -1,16 +1,16 @@
 {
     "title": "  Init",
-    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "description": "Learn how to register on the Developer Portal and use postman with Orange API.",
     "icon": "fa-katacoda",
     "courses": [
       {
         "course_id": "001-Registration",
-        "title": "Scenario with Terminal UI Init",
+        "title": "Registation on the Portal",
         "description": "Katacoda Scenario Example"
       },
       {
-        "course_id": "001-Postman",
-        "title": "Scenario with Editor Terminal UI",
+        "course_id": "005-Postman",
+        "title": "Use of Postman",
         "description": "Katacoda Scenario Example"
       } 
     ]
