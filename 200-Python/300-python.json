@@ -1,0 +1,28 @@
+{
+    "courses": [
+      {
+        "title": "Manage OAuth authentication with Python",
+        "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+        "id": "uilayouts"
+      },
+      {
+       "title": "Register to Orange Developer Portal",
+        "description": "Example of selective available Katacoda Environments. More examples coming soon!",
+        "id": "environment-usages"
+      }
+    ],
+    "scenarios": [
+      {
+        "title": "Manage OAuth authentication with Python",
+        "description": "Learn how to create your first Katacoda scenario",
+        "id": "create-scenario-101"
+      },
+      {
+      "title": "Register to Orange Developer Portal",
+        "description": "Learn how to create a collection of Katacoda scenarios into a course",
+        "id": "create-course"
+      }  
+       
+    ]
+  }
+  
