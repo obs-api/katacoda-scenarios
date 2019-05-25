@@ -20,11 +20,14 @@
     ],
     "intro": {
       "text": "intro.md",
-      "credits": "Philippe VALETTE / Orange Business Services" 
+      "credits": "Philippe VALETTE / Orange Business Services"
     },
     "finish": {
       "text": "finish.md"
-    } 
+    },
+    "assets": {
+      "client": []
+    }
   },
   "files": [
     "index.js",
@@ -32,7 +35,12 @@
   ],
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Orange Developer", "href": "https://developer.orange.com"}],
+    "dashboards": [
+      {
+        "name": "Orange Developer",
+        "href": "https://developer.orange.com"
+      }
+    ],
     "hideintro": false,
     "hidefinish": false,
     "uilayout": "terminal-iframe",
