@@ -1,15 +1,11 @@
 {
     "courses": [
       {
-      "title": "Register to Orange Developer Portal A100",
+      "title": "Getting Started",
         "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
-        "id": "uilayouts"
-      },
-      {
-       "title": "Register to Orange Developer Portal A200",
-        "description": "Example of selective available Katacoda Environments. More examples coming soon!",
-        "id": "environment-usages"
-      }
+        "id": "000-getting-started"
+      } 
+       
     ],
     "scenarios": [
       {
@@ -18,10 +14,10 @@
         "id": "001-registration"
       },
       {
-        "title": "Use Postman",
+        "title": "Use Postman with Orange API",
         "description": "Learn how to create a collection of Katacoda scenarios into a course",
         "id": "005-postman"
-      }   
+      } 
     ]
   }
   
