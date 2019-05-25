@@ -40,7 +40,7 @@
     "dashboards": [{"name": "Orange Developer", "href": "https://developer.orange.com"}],
     "hideintro": false,
     "hidefinish": false,
-    "uilayout": "iframe",
+    "uilayout": "terminal-iframe",
     "uisettings": "javascript",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWelcome\u001b[m\r\n"
   },
