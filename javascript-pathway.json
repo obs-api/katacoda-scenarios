@@ -6,13 +6,18 @@
        
       {
         "course_id": "100-Authentication",
-        "title": "Use of Postman",
-        "description": "Katacoda Scenario Example"
+        "title": "OAuth 2.0 Authentication",
+        "description": "Learn how to implement the OAuth 2.0 authentiation"
       } ,
       {
         "course_id": "110-Collection",
-        "title": "Registation on the Portal",
-        "description": "Katacoda Scenario Example"
+        "title": "Get Collections",
+        "description": "Explained step by step to get collections"
+      },
+      {
+        "course_id": "120-Search",
+        "title": "Avanced Search",
+        "description": "Learn how to initiate advanced searches"
       }
     ]
   }
