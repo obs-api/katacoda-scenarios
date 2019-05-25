@@ -3,7 +3,7 @@
       {
       "title": "Getting Started",
         "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
-        "id": "000-getting-started"
+        "id": "000-Getting-Started"
       } 
        
     ],
@@ -11,12 +11,12 @@
       {
         "title": "Register to Orange Developer Portal",
         "description": "Learn how to create your first Katacoda scenario",
-        "id": "001-registration"
+        "id": "001-Registration"
       },
       {
         "title": "Use Postman with Orange API",
         "description": "Learn how to create a collection of Katacoda scenarios into a course",
-        "id": "005-postman"
+        "id": "005-Postman"
       } 
     ]
   }
