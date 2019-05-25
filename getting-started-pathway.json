@@ -1,9 +1,12 @@
 {
+  "title": "Orange API",
+    "description": "",
+    "icon": "fa-katacoda",
     "courses": [
       {
       "title": "Getting Started",
         "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
-        "id": "Getting-Started"
+        "id": "001-Registration"
       } 
        
     ],
