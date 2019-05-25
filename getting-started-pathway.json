@@ -6,14 +6,19 @@
     {
       "title": "Getting Started",
       "description": "A partir du fichier getting-started-pathway.json!",
-      "id": "getting-started"
+      "id": "Getting-Started"
     }
   ],
   "scenarios": [
     {
-      "course_id": "001-Registration",
-      "title": "Scenario with Terminal UI",
-      "description": "Katacoda Scenario Example"
-    } 
-  ]
+        "course_id": "001-Registration",
+        "title": "Scenario with Terminal UI",
+        "description": "Katacoda Scenario Example"
+    },
+    {
+        "course_id": "005-Postman",
+        "title": "Scenario with Editor Terminal UI",
+        "description": "Katacoda Scenario Example"
+    }
+]
 }
