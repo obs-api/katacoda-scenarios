@@ -2,34 +2,29 @@
   "title": "Register to Orange Developer Portal",
   "description": "This scenario will explain you how to register on the Orange Developer Portal",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "4 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Run Command",
+        "title": "Access the portal",
         "text": "step1.md"
+      },
+      {
+        "title": "Register",
+        "text": "step2.md"
+      },
+      {
+        "title": "Browse the catalog",
+        "text": "step3.md"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "credits": "",
-      "code": "setenv.sh"
+      "credits": "Philippe VALETTE / Orange Business Services" 
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "client": [
-        {
-          "file": "index.js",
-          "target": "~/"
-        },
-        {
-          "file": "setenv.sh",
-          "target": "~/"
-        }
-      ]
-    }
+    } 
   },
   "files": [
     "index.js",
