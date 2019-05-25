@@ -1,16 +1,16 @@
 {
-    "title": "  Init",
+    "title": "  Python",
     "description": "Learn how to register on the Developer Portal and use postman with Orange API.",
     "icon": "fa-katacoda",
     "courses": [
        
       {
-        "course_id": "005-Postman",
+        "course_id": "200-Authentication",
         "title": "Use of Postman",
         "description": "Katacoda Scenario Example"
       } ,
       {
-        "course_id": "001-Registration",
+        "course_id": "210-Collection",
         "title": "Registation on the Portal",
         "description": "Katacoda Scenario Example"
       }
