@@ -1,17 +1,19 @@
 {
   "title": "Register to Orange Developer Portal",
-  "description": "fdfsdfdsfssdffsdfsddf",
+  "description": "This scenario will explain you how to register on the Orange Developer Portal",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - Run Command",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": "",
-        "code": "setenv.sh" 
+      "code": "setenv.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -22,20 +24,22 @@
           "file": "index.js",
           "target": "~/"
         },
-         {
+        {
           "file": "setenv.sh",
           "target": "~/"
         }
-      ] 
+      ]
     }
-  },"files": [
-    "index.js","setenv.sh"
+  },
+  "files": [
+    "index.js",
+    "setenv.sh"
   ],
   "environment": {
-       "hideintro": false,
-        "hidefinish": false,
-        "uilayout": "editor-terminal",
-        "uisettings": "javascript",
+    "hideintro": false,
+    "hidefinish": false,
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWelcome\u001b[m\r\n"
   },
   "backend": {
