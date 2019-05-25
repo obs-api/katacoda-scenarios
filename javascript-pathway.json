@@ -16,8 +16,28 @@
       },
       {
         "course_id": "120-Search",
-        "title": "Avanced Search",
+        "title": "Advanced Search",
         "description": "Learn how to initiate advanced searches"
+      },
+      {
+        "course_id": "130-Request",
+        "title": "Request new product or change",
+        "description": "Learn how to send new request (order/change)."
+      },
+      {
+        "course_id": "140-Download",
+        "title": "Download & Upload documents",
+        "description": "Learn how to download documents or files."
+      },
+      {
+        "course_id": "150-Aggregation",
+        "title": "Aggragate data",
+        "description": "Learn how to count items."
+      },
+      {
+        "course_id": "160-StatusVersion",
+        "title": "Get the status & version",
+        "description": "Easy way to get the status and version of the API."
       }
     ]
   }
