@@ -1,24 +1,24 @@
 {
     "courses": [
       {
-        "title": "Katacoda UI Layouts Example",
+      "title": "Register to Orange Developer Portal",
         "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
         "id": "uilayouts"
       },
       {
-        "title": "Katacoda Environments",
+       "title": "Register to Orange Developer Portal",
         "description": "Example of selective available Katacoda Environments. More examples coming soon!",
         "id": "environment-usages"
       }
     ],
     "scenarios": [
       {
-        "title": "Creating Your First Katacoda Scenario",
+        "title": "Register to Orange Developer Portal",
         "description": "Learn how to create your first Katacoda scenario",
         "id": "create-scenario-101"
       },
       {
-        "title": "Creating a Katacoda Course",
+      "title": "Register to Orange Developer Portal",
         "description": "Learn how to create a collection of Katacoda scenarios into a course",
         "id": "create-course"
       },
