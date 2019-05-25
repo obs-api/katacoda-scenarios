@@ -1,12 +1,12 @@
 {
     "courses": [
       {
-      "title": "Register to Orange Developer Portal",
+      "title": "Register to Orange Developer Portal A100",
         "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
         "id": "uilayouts"
       },
       {
-       "title": "Register to Orange Developer Portal",
+       "title": "Register to Orange Developer Portal A200",
         "description": "Example of selective available Katacoda Environments. More examples coming soon!",
         "id": "environment-usages"
       }
@@ -18,7 +18,7 @@
         "id": "create-scenario-101"
       },
       {
-      "title": "Register to Orange Developer Portal",
+        "title": "Manage OAuth authentication with Python",
         "description": "Learn how to create a collection of Katacoda scenarios into a course",
         "id": "create-course"
       },
