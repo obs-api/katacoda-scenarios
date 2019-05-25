@@ -1,0 +1,19 @@
+{
+    "title": "  Init",
+    "description": "Learn how to register on the Developer Portal and use postman with Orange API.",
+    "icon": "fa-katacoda",
+    "courses": [
+       
+      {
+        "course_id": "005-Postman",
+        "title": "Use of Postman",
+        "description": "Katacoda Scenario Example"
+      } ,
+      {
+        "course_id": "001-Registration",
+        "title": "Registation on the Portal",
+        "description": "Katacoda Scenario Example"
+      }
+    ]
+  }
+  
