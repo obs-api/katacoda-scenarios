@@ -1,0 +1,12 @@
+{"scenarios": [
+    {
+      "course_id": "001-Registration",
+      "title": "Scenario with Terminal UI",
+      "description": "Katacoda Scenario Example"
+    },
+    {
+      "course_id": "005-Postman",
+      "title": "Scenario with Editor Terminal UI",
+      "description": "Katacoda Scenario Example"
+    }
+}
