@@ -9,18 +9,6 @@
         "id": "001-Registration"
       } 
        
-    ],
-    "scenarios": [
-      {
-        "title": "Register to Orange Developer Portal",
-        "description": "Learn how to create your first Katacoda scenario",
-        "id": "001-Registration"
-      },
-      {
-        "title": "Use Postman with Orange API",
-        "description": "Learn how to create a collection of Katacoda scenarios into a course",
-        "id": "005-Postman"
-      } 
-    ]
+    ] 
   }
   
