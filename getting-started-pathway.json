@@ -1,14 +1,19 @@
 {
   "title": "Orange API",
-    "description": "",
-    "icon": "fa-katacoda",
-    "courses": [
-      {
+  "description": "",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
       "title": "Getting Started",
-        "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
-        "id": "getting-started.json"
-      } 
-       
-    ] 
-  }
-  
+      "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+      "id": "getting-started.json"
+    }
+  ],
+  "scenarios": [
+    {
+      "course_id": "001-Registration",
+      "title": "Scenario with Terminal UI",
+      "description": "Katacoda Scenario Example"
+    } 
+  ]
+}
