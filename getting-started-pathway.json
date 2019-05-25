@@ -1,11 +1,11 @@
 {
   "title": "Orange API",
-  "description": "",
+  "description": "fichier principal",
   "icon": "fa-katacoda",
   "courses": [
     {
       "title": "Getting Started",
-      "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+      "description": "A partir du fichier getting-started-pathway.json!",
       "id": "getting-started"
     }
   ],
