@@ -6,6 +6,11 @@
         "id": "uilayouts"
       },
       {
+        "title": "Init",
+        "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+        "id": "init"
+      },
+      {
         "title": "Katacoda Environments",
         "description": "Example of selective available Katacoda Environments. More examples coming soon!",
         "id": "environment-usages"
